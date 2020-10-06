@@ -1,2 +1,2 @@
 # YouPyTwit
-A twitter bot with partial youtube integration that likes, retweets, and composes its own tweets. With Youtube integration, the latest 50 videos of the account is pulled to be referenced when composing tweets.
+A twitter bot with partial youtube integration that likes, retweets, and composes its own tweets based on configuration files (including hashtags and such) modified by the user. With Youtube integration, the latest 50 videos of the account is pulled to be referenced when composing tweets- current creating a tweet with a link to the video, its title, and (typically) relevant hashtags. The bot operates on a sleep/wake cycle.
