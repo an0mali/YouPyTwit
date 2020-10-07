@@ -398,4 +398,4 @@ class YouPyTwit(object):
 		if s.config['log_enabled']:
 			pass # Insert data storage function hereeeeeeeeee
 		
-a = Omegaq('a')
+a = YouPyTwit('a')
