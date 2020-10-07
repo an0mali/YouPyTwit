@@ -25,7 +25,7 @@ def main():
 
 	request = youtube.search().list(
 		part="id,snippet",
-		channelId="UCyQPbe7X3Cf7jI1Oa8EG93w",
+		channelId="UCyQPbe7X3Cf7jI1Oa8EG93w",#enter your channel ID code here
 		maxResults=50,
 		type="video"
 		)
