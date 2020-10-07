@@ -8,6 +8,7 @@ To get started: (If you already have a twitter developer account, skip to step 4
 4. Create a new twitter app.
 5. From your new app's page, click Keys and tokens.
 6. Create a file in the same directory as youpytwit.py called 'consume.aut' and enter your API key on the first line and API secret key on the second line.
+7. Also inside this directory, create a file called 'access.aut' and enter your apps access token on the first line and access token secret on the second line.
 7. Get your Google developer token for Youtube API (more instructions on this soon), name it 'yt.config' and place it into the youtube directory.
 8. Inside this directory, open utoobpy_lte.py and replace the current 'channel id' with your channel's ID.
 9. Run youtwitpy.py
